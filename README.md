@@ -1,1 +1,2 @@
 # Applied-Data-Programming
+There is a dataset which includes information on the various aspects of a building location and construction. The dataset includes lots of information such as location of the building, it's age, foundation, etc. Using the data, one can help predict the level of damage to the building that can be caused by an earthquake. Such datasets can help concerned government agencies design better governance plans, including but not limited to improvement to existing infrastructure, better disaster management plans, etc. 
